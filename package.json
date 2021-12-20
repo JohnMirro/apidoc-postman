@@ -1,5 +1,5 @@
 {
-  "name": "@johnmirro/apidoc-postman",
+  "name": "@b1cloud/apidoc-postman",
   "version": "1.0.0",
   "license": "MPL-2.0",
   "description": "An internal tool to generate Postman collections from apiDoc Inline Documentation",
