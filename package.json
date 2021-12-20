@@ -1,12 +1,12 @@
 {
-  "name": "@JohnMirro/b1-apidoc-postman",
-  "version": "2.1.0",
+  "name": "@johnmirro/b1-apidoc-postman",
+  "version": "1.0.0",
   "license": "MPL-2.0",
-  "description": "A tool to generate Postman collections from apiDoc Inline Documentation",
+  "description": "An internal tool to generate Postman collections from apiDoc Inline Documentation",
   "author": {
-    "name": "Mattia Panzeri",
-    "email": "mattia.panzeri93@gmail.com",
-    "url": "https://github.com/panz3r"
+    "name": "Roman Merzheevski",
+    "email": "johnmirro@gmail.com",
+    "url": "https://github.com/johnmirro"
   },
   "keywords": [
     "apidoc",
@@ -14,12 +14,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/panz3r/b1-apidoc-postman"
+    "url": "git+https://github.com/JohnMirro/b1-apidoc-postman"
   },
   "bugs": {
-    "url": "https://github.com/panz3r/b1-apidoc-postman/issues"
+    "url": "https://github.com/JohnMirro/b1-apidoc-postman/issues"
   },
-  "homepage": "https://github.com/panz3r/b1-apidoc-postman#readme",
+  "homepage": "https://github.com/JohnMirro/b1-apidoc-postman#readme",
   "bin": "bin/apidocPostman.js",
   "scripts": {
     "build:example": "./bin/apidocPostman.js -i example/ -o tmp/ -c example/"
